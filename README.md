@@ -1,4 +1,4 @@
 # hello-world
 my first git repo
 I have been working with Wordpress for a number of years, and now I am taking on building a WordPress Plugin. 
-I alos look after a Drupal site.
+I also look after a Drupal site.
